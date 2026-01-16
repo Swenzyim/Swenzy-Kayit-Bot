@@ -45,7 +45,7 @@ Botun prefix'ini değiştirir.
 
 Herhangi bir sorunuz veya öneriniz varsa, doğrudan benimle iletişime geçin.
 
-[![Discord Profilim](https://img.shields.io/badge/Discord-Profilim-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/657241749579759616)
+[![Discord Profilim](https://img.shields.io/badge/Discord-Profilim-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1195760072068972577)
 
 ## Topluluk
 
