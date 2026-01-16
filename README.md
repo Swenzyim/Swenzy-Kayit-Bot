@@ -1,4 +1,4 @@
-# Discord.js v14 Gelişmiş Kayıt Botu
+# Discord.js v14 Gelişmiş Swenzy Kayıt Botu
 
 Bu proje, Discord.js v14 kullanılarak oluşturulmuş gelişmiş bir kayıt botudur. Sunucunuzda kolayca üye kayıt sistemi kurabilir ve yönetebilirsiniz.
 
@@ -51,7 +51,7 @@ Herhangi bir sorunuz veya öneriniz varsa, doğrudan benimle iletişime geçin.
 
 Discord sunucumuzdan diğer altyapılarımıza ulaşabilirsiniz!
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/msidev/)](https://discord.gg/msidev)
+[![Discord Banner](https://api.weblutions.com/discord/invite/npm/)](https://discord.gg/npm)
 
 ## Lisans
 
