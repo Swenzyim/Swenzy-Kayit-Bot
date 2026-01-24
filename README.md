@@ -51,7 +51,7 @@ Herhangi bir sorunuz veya öneriniz varsa, doğrudan benimle iletişime geçin.
 
 Discord sunucumuzdan diğer altyapılarımıza ulaşabilirsiniz!
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/npm/)](https://discord.gg/npm)
+[![Discord Banner](https://api.weblutions.com/discord/invite/altyapilar/)](https://discord.gg/altyapilar)
 
 ## Lisans
 
